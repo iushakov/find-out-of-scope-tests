@@ -1,4 +1,4 @@
-AGRV = "mydir" #desired folder path ~/*/project_path/
+AGRV = "mydir" # ruby out_of_scope_features.rb /PATH_TO_PROJECT/
 
 Dir.chdir( ARGV[0] )
 %[cd ARGV[0]]
