@@ -1,5 +1,7 @@
-Dir.chdir( mydir )
-%[cd mydir]
+AGRV = "mydir" #desired folder path ~/*/project_path/
+
+Dir.chdir( ARGV[0] )
+%[cd ARGV[0]]
 
 Dir.glob("**/*.feature") {|file|
   File.open file do |f|
