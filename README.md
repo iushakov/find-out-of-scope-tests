@@ -1,6 +1,6 @@
 # How to Use
 
-**Description:** This script navigate thru folder and sub-folders and helps to find files, where were specified word are matched, and prints path to these files.
+**Description:** This script navigate thru folder and sub-folders and helps to find files, where specified word is matched, and prints path to these files.
 
 1. Open Terminal
 2. Proceed to folder where script is stored
