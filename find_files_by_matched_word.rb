@@ -1,5 +1,5 @@
 ### ruby out_of_scope_features.rb mydir extension word
-### example: ruby out_of_scope_features.rb /Users/admin/calabash-android/ feature London
+### example: ruby find_files_by_matched_word.rb /Users/admin/calabash-android/ feature London
 ### AGRVs:
 ### mydir - path to folder that should be checked
 ### extension - extension of files that should be checked
